@@ -46,6 +46,12 @@ a count device will tell you how many devices were installed when you click each
 
 # References
 
+Introduction to Power BI: https://docs.microsoft.com/en-us/learn/modules/introductionpower-bi/
+• Model Data in Power BI: https://docs.microsoft.com/en-us/learn/paths/model-power-bi/
+• Power BI Best Practises: https://spreadsheeto.com/power-bi-bestpractices/#:~:text=1%20Put%20first%20things%20first.%20This%20one%20is,with%20
+numeric%20data%2C%20use%20integers%20instead%20of%20strings.
+• Storytelling in Power BI: https://powerbi.microsoft.com/en-us/data-storytelling/
+
 - Aspin, A. 2021. Introduction to Power BI Themes. In: Pro Power BI Theme Creation. Springer. pp. 1–9.
 - Bakhshi, S. 2021. Quick Tips: Connecting to Excel Files Stored in SharePoint Online from Power BI Desktop. BI Insight. https://www.biinsight.com/quick-tips-connecting-to-excel-files-stored-in-sharepoint-online-from-power-bi-desktop/ Date of access: 01 Nov. 2022.
 - davidiseminger. 2022a. Create and manage relationships in Power BI Desktop - Power BI. MSDN. https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-create-and-manage-relationships Date of access: 10 Nov. 2022.
