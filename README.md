@@ -23,6 +23,27 @@ In order to make use of the online dashboard [Visit](https://app.powerbi.com/gro
 - More visuals
 
 
+high level metrics
+
+a count of device is provided , the slicer plays the role in the graph and count of devices , if choose the checkbox it will tell you how many devices are registered and which oe which paerticular time.
+a graph for status is provided
+the scroll bar for dates tells you on which date the devices were registerd , and the number of devices
+
+device monitoring
+
+the true and false in the slicer are the status either online or offline
+online is 5 devices 
+offline is 4 devices 
+the staus of online and offline is shownn inn the count of device
+the scroll bar for dates tells you on which date the devices were registerd , and the number of devices and which devices 
+the bar graph indicates thr status of how may months and days it stayed active
+
+device registration
+
+a waterfall chart shows how the graph slope is either increasig and decreasing 
+timelie graph was iitially icreasinng then decreased and then constantly stayed the same constant, which means that the device were not many installed 
+a count device will tell you how many devices were installed when you click each checkbox in the slicer either with code or device name
+
 # References
 
 - Aspin, A. 2021. Introduction to Power BI Themes. In: Pro Power BI Theme Creation. Springer. pp. 1–9.
