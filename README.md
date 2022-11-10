@@ -1,21 +1,21 @@
 # CMPG-323-Project-5--32369689
 
-This repository contains code for CMPG 323 Project 5, made completely in power BI
+This project is completely done on a BI
 
-# How to use
+ How to use:
 
-## Using the online dashboard (Requires MSFED account)
+ Using the online dashboard (Required MSFED account)
 
 In order to make use of the online dashboard [Visit](https://app.powerbi.com/groups/me/reports/d90cd180-809d-4cbe-b731-7bd60dc1f306/ReportSection) and Sign in with your Microsoft account
 
-## Using a local instance of Power BI (Requires PowerBI Community **Recommended**)
+ Using a local instance of Power BI (Requires PowerBI Community **Recommended**):
 
 - Clone this project on to your device
 - Open the ".pbix" File in PowerBI
 
-**NOTE:** You may need authorization to access the Sharepoint dataset
+NOTE: You may need authorization to access the Sharepoint dataset
 
-# Stretch Tasks
+ Stretch Tasks:
 
 - Creating a custom theme based on the Connected Office Website
 - Publishing the project
